@@ -16,7 +16,8 @@ Your Answer		Score	Explanation
 53	<--Correct	3.00	
 Total		3.00 / 3.00
 
-2.Use the data you loaded from Question 1. Consider the variable FES in the code book. Which of the "tidy data" principles does this variable violate?
+2.Use the data you loaded from Question 1. Consider the variable FES in the code book. Which of the "tidy data" principles 
+does this variable violate?
 Your Answer		Score	Explanation
 Tidy data has one variable per column. <--Correct	3.00	
 Tidy data has one observation per row.			
@@ -52,7 +53,8 @@ Your Answer		Score	Explanation
 127	<--Correct	3.00	
 Total		3.00 / 3.00	
 
-5.The American Community Survey distributes downloadable data about United States communities. Download the 2006 microdata survey about housing for the state of Idaho using download.file() from here: 
+5.The American Community Survey distributes downloadable data about United States communities. Download the 2006 microdata 
+survey about housing for the state of Idaho using download.file() from here: 
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2Fss06pid.csv 
 
